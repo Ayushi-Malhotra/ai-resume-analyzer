@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/github/languages/code-size/ayushi malhotra/AI-Resume-Analyzer?color=informational" alt="code size" />
     <a href="https://github.com/ayushi-malhotra986/AI-Resume-Analyzer/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/ayushi-malhotra986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
+      <h1> ayushi malhotra </h1>
     </a>
   </p>
   
