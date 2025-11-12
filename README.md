@@ -7,12 +7,12 @@
   <p>A Tool for Resume Analysis, Predictions and Recommendations</p>
   <!-- Badges -->
   <p>
-    <img src="https://img.shields.io/github/last-commit/deepakpadhi986/AI-Resume-Analyzer" alt="last update" />
+    <img src="https://img.shields.io/github/last-commit/ayushimalhotra/AI-Resume-Analyzer" alt="last update" />
     <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
-    <img src="https://img.shields.io/github/languages/top/deepakpadhi986/AI-Resume-Analyzer?color=red" alt="language" />
-    <img src="https://img.shields.io/github/languages/code-size/deepakpadhi986/AI-Resume-Analyzer?color=informational" alt="code size" />
-    <a href="https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/deepakpadhi986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
+    <img src="https://img.shields.io/github/languages/top/ayushi_malhotra/AI-Resume-Analyzer?color=red" alt="language" />
+    <img src="https://img.shields.io/github/languages/code-size/ayushi malhotra/AI-Resume-Analyzer?color=informational" alt="code size" />
+    <a href="https://github.com/ayushi-malhotra986/AI-Resume-Analyzer/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/ayushi-malhotra986/AI-Resume-Analyzer.svg?color=yellow" alt="license" />
     </a>
   </p>
   
@@ -27,13 +27,11 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a> through 
-      <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
+      <a href="https://dnoobnerd.netlify.app/">ayushi malhotra</a> through 
+    
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
-  </small>
+ 
 </div><br/><br/>
 
 ## About the Project 🥱
