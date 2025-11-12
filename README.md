@@ -27,9 +27,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://dnoobnerd.netlify.app/">ayushi malhotra</a> through 
     
-     </small>
   </p>
  
 </div><br/><br/>
